@@ -33,6 +33,9 @@ Open with live server
   npm run start
 ```
 
+## ScreenShot
+
+![screenshot](Screenshot_1.png)
 
 ## Authors
 
