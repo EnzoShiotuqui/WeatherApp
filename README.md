@@ -1,7 +1,7 @@
 
 # Weather.IO
 
-Dashboard para clima, podendo ver temperatura, umidade, vento entre outras informações
+Dashboard for weather, where you can see temperature, humidity, wind and other information
 
 ## Tech Stack
 
