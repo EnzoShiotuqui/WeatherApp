@@ -15,7 +15,7 @@ To work, you need to put your key in the api.js file
 just log on to the openWeather website and redeem your key
 - [openWeather-API](https://openweathermap.org/api)
 
-** Link
+## Link
 
 - [Deploy-Site](https://eweatherio.netlify.app/#/current-location)
 
